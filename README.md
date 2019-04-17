@@ -4,7 +4,7 @@ This repository contains binary packages generated daily from development branch
 
 If you want more information about the project go to [https://github.com/FPGAwars/icestudio](https://github.com/FPGAwars/icestudio).
 
-***---*****
+---
 
 Este repositorio contiene los paquetes binarios generados diariamente de la rama ****development  de Icestudio
 
