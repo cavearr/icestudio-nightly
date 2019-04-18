@@ -1,5 +1,9 @@
 # icestudio nightly
 
+[**Website**:](https://icestudio.io)
+[**Project page:**](https://github.com/FPGAwars/icestudio)
+
+
 This repository contains binary packages generated daily from d**evelopment** branch of Icestudio.
 
 If you want more information about the project go to [https://github.com/FPGAwars/icestudio](https://github.com/FPGAwars/icestudio).
