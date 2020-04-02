@@ -4,6 +4,10 @@ This  nightly build has the next improvements and bugs fixed that differs from s
 
 
 ## Improvements
+* **Development mode**, for nightly versions.
+* **Plugin system**, with serial terminal embeded as first plugin.
+* **NEXTPNR** toolchain.
+* **Improve compatibility**, with windows and MacOSX.
 * **Upgrade core componentes** , this version has been upgraded with latests or closest latest versions of nwjs, and some js libraries.
 * **Improve velocity** for larger designs (first round of optimizations).
 * *****Submodule (block) edition** with *****copy & clone** or **copy & paste**
