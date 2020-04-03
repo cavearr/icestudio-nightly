@@ -1,9 +1,12 @@
-# Changelog
+# Changelog n200403
 
 This  nightly build has the next improvements and bugs fixed that differs from stable version:
 
 
 ## Improvements
+* **Python virtualenv ugrade**, to 16.6.10 version.
+* **MacOSX Catalina and Mojave** support
+* **Python 3.8.2** package for windows installs
 * **Development mode**, for nightly versions.
 * **Plugin system**, with serial terminal embeded as first plugin.
 * **NEXTPNR** toolchain.
