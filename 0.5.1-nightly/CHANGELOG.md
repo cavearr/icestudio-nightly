@@ -4,6 +4,7 @@ This  nightly build has the next improvements and bugs fixed that differs from s
 
 
 ## Improvements
+* **Fixed windows install**, problem with python detection.
 * **Python virtualenv ugrade**, to 16.6.10 version.
 * **MacOSX Catalina and Mojave** support
 * **Python 3.8.2** package for windows installs
